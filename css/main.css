@@ -12,11 +12,24 @@ body{
   line-height: 1.5;
   color: black;
 }
-.conatiner{
+.container{
   width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
   padding-left: 15px;
   padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
-
+.heading{
+  text-align: center;
+  background-color: white;
+}
+.text-1{
+  background-color: white;
+}
+.image{
+  margin-left: auto;
+  margin-right: auto;
+}
+.text-2{
+  background-color: #ddd;
+}
